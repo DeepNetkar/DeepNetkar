@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot,Microservices,APIs,AWS Cloud,Web Frontend Development**
 
-- 🤝 I’m searching **Jobs openings on "Java Developer","Web Developer" roles.**
+- 🤝 I’m searching **Job openings on "Java Developer","Web Developer" roles.**
 
 - 💬 Ask me about **Java,Spring Framework,Web Development.**
 

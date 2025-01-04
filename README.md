@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot,Microservices,APIs,AWS Cloud,Web Frontend Development**
 
-- 🤝 I’m looking for help with **Jobs on"Java Developer","Web Developer"Roles.**
+- 🤝 I’m searching **Jobs openings on "Java Developer","Web Developer" roles.**
 
 - 💬 Ask me about **Java,Spring Framework,Web Development.**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deep-netkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deep-netkar/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deep-netkar/" target="blank"><img align="center"  alt="https://www.linkedin.com/in/deep-netkar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
